@@ -1,4 +1,4 @@
-# CUVEC
+# Talana Test
 
 ## Project setup
 ```
